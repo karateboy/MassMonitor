@@ -1,0 +1,17 @@
+﻿{
+  "LogPath": "C:\\Temp\\RTDiagnostics.txt",
+  "LineToken": "8O9tiyaPnQSKOETm3bTp1mKmPrUJyeZvDaHkrgDmWRw",
+  "Mail": {
+    "Host": "www.hibox.hinet.net",
+    "Port": 587,
+    "Username": "airiot@wecc.com.tw",
+    "Password": "wecc27548312!~!",
+    "From": "airiot@wecc.com.tw",
+    "To": "karateboy.tw@gmail.com"
+  },
+  "Sms": {
+    "Account": "27548312",
+    "Password": "80185362",
+    "Phone": "0920660136"
+  }
+}
